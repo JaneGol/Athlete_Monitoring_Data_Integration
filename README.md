@@ -15,17 +15,9 @@
 
 ## 🧱 Структура проекта
 
-Athlete_Data_Integration/
-│
-├── notebooks/
-│   └── data_integration_project.ipynb      # Твой Colab-ноутбук
-│
-├── data/
-│   └── merged_dataset.csv                  # Финальный CSV
-│
-├── README.md                               # Описание проекта
-└── requirements.txt                        # (по желанию) библиотеки
-
+notebooks/data_integration_project.ipynb # Код обработки
+data/merged_dataset.csv # Финальный объединённый датасет
+README.md # Описание проекта
 
 ---
 
